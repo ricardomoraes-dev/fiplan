@@ -1,0 +1,3 @@
+*             #ignora tudo
+!*.md         #libera *.md
+!*.gitignore  #libera .gitignore
